@@ -1,122 +1,123 @@
 ---
-layout: home
+layout: page
+lab:
+    title: 'Lab: Example'
+    module: 'Module 0: Placeholder'
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Lab: Example
+# Student lab manual
 
-[Link to another page](another-page).
+## Lab scenario
 
-There should be whitespace between paragraphs.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lobortis, erat vel egestas faucibus, dui magna semper velit, id congue sapien lectus id turpis. Nam egestas tempus enim. Ut venenatis vehicula ex, id rutrum odio lacinia at. Donec congue, tortor sed fermentum imperdiet, mauris mi auctor dui, ac cursus ex augue a odio. Aliquam erat volutpat. Vivamus faucibus fringilla augue in dignissim. Quisque sit amet nulla id risus gravida auctor. Ut in est varius, cursus odio rhoncus, placerat erat. Suspendisse nec metus est.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Objectives
 
-# [](#header-1)Header 1
+After you complete this lab, you will be able to:
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- Cras tincidunt massa et nunc vulputate, eget vestibulum massa tincidunt. 
 
-## [](#header-2)Header 2
+- Maecenas suscipit at nisl vitae malesuada. 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- Suspendisse eu arcu id velit consequat venenatis.
 
-### [](#header-3)Header 3
+## Lab Setup
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+  - **Estimated Time**: 00 minutes
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Instructions
 
-#### [](#header-4)Header 4
+### Before you start
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+#### Setup Task
 
-##### [](#header-5)Header 5
+1. Integer dolor purus, gravida eu sem id, efficitur aliquet neque. 
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1. Suspendisse viverra mauris in metus laoreet consectetur. 
 
-###### [](#header-6)Header 6
+1. Sed diam risus, convallis quis condimentum at, egestas malesuada libero. 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### Exercise 0: 
 
-### There's a horizontal rule below this.
+#### Task 0: 
 
-* * *
+1. Quisque dictum convallis metus, vitae vestibulum turpis dapibus non.
 
-### Here is an unordered list:
+    1. Suspendisse commodo tempor convallis. 
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+    1. Nunc eget quam facilisis, imperdiet felis ut, blandit nibh. 
 
-### And an ordered list:
+    1. Phasellus pulvinar ornare sem, ut imperdiet justo volutpat et.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+1. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
 
-### And a nested list:
+1. Vestibulum hendrerit orci urna, non aliquet eros eleifend vitae. 
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+1. Curabitur nibh dui, vestibulum cursus neque commodo, aliquet accumsan risus. 
 
-### Small image
+    ```
+    Sed at malesuada orci, eu volutpat ex
+    ```
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+1. In ac odio vulputate, faucibus lorem at, sagittis felis.
 
-### Large image
+1. Fusce tincidunt sapien nec dolor congue facilisis lacinia quis urna.
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+    > **Note**: Ut feugiat est id ultrices gravida.
 
+1. Phasellus urna lacus, luctus at suscipit vitae, maximus ac nisl. 
 
-### Definition lists can be used with HTML syntax.
+    - Morbi in tortor finibus, tempus dolor a, cursus lorem. 
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+    - Maecenas id risus pharetra, viverra elit quis, lacinia odio. 
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+    - Etiam rutrum pretium enim. 
 
-```
-The final element.
-```
+1. Curabitur in pretium urna, nec ullamcorper diam. 
+
+#### Review
+
+Maecenas fringilla ac purus non tincidunt. Aenean pellentesque velit id suscipit tempus. Cras at ullamcorper odio.
+
+### Exercise 0: 
+
+#### Task 0: 
+
+1. Quisque dictum convallis metus, vitae vestibulum turpis dapibus non.
+
+    1. Suspendisse commodo tempor convallis. 
+
+    1. Nunc eget quam facilisis, imperdiet felis ut, blandit nibh. 
+
+    1. Phasellus pulvinar ornare sem, ut imperdiet justo volutpat et.
+
+1. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+
+1. Vestibulum hendrerit orci urna, non aliquet eros eleifend vitae. 
+
+1. Curabitur nibh dui, vestibulum cursus neque commodo, aliquet accumsan risus. 
+
+    ```
+    Sed at malesuada orci, eu volutpat ex
+    ```
+
+1. In ac odio vulputate, faucibus lorem at, sagittis felis.
+
+1. Fusce tincidunt sapien nec dolor congue facilisis lacinia quis urna.
+
+    > **Note**: Ut feugiat est id ultrices gravida.
+
+1. Phasellus urna lacus, luctus at suscipit vitae, maximus ac nisl. 
+
+    - Morbi in tortor finibus, tempus dolor a, cursus lorem. 
+
+    - Maecenas id risus pharetra, viverra elit quis, lacinia odio. 
+
+    - Etiam rutrum pretium enim. 
+
+1. Curabitur in pretium urna, nec ullamcorper diam. 
+
+#### Review
+
+Maecenas fringilla ac purus non tincidunt. Aenean pellentesque velit id suscipit tempus. Cras at ullamcorper odio.
