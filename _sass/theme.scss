@@ -30,8 +30,8 @@ a {
     word-wrap: break-word;
 }
 
-main ol ol,
-main ul ul {
+main ol > ol,
+main ul > ul {
     margin: 0 0 0 20px;
 }
 
