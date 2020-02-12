@@ -99,10 +99,11 @@ blockquote {
 
 blockquote p {
     margin-top: 0px;
+    margin-left: 8px;
 }
 
 blockquote:before {
-    content: "❕ ";
+    content: "❕";
     font-weight: bolder;
     font-size: larger;
     font-family: segoe-ui, "Segoe UI", "Segoe WP", "Helvetica Neue", Helvetica, sans-serif;
